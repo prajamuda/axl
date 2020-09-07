@@ -8,8 +8,8 @@ body {
 }
 
 .login-box {
-  width: 320px;
-  height: 420px;
+  width: 360px;
+  height: 460px;
   background: #000;
   color: #fff;
   top: 50%;
@@ -21,8 +21,8 @@ body {
 }
 
 .login-box .avatar {
-  width: 100px;
-  height: 100px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   position: absolute;
   top: -50px;
